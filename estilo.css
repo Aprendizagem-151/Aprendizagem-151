@@ -12,10 +12,8 @@ body {
 }
 
 img {
-    width: 100%
-    min-width: 320px;
-    max-width: 930px;
-    margin: 0 auto;
+    width: 425px;
+    height: 300px;
 }
 
 p {
